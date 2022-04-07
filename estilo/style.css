@@ -43,7 +43,7 @@ main p {
     text-align: justify;
     text-indent: 30px; /* é para fazer o espaço do paragrafo */
     font-size: 1em;
-    line-height: 2em; /* é para configurar a altura entre as linhas */
+    line-height: 2em; /* é para configurar o espaçamento entre as linhas */
 }
 
 header {
